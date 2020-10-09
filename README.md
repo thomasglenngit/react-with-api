@@ -1,4 +1,4 @@
-<h1 align='center'><img width='900' height='450' src='https://1000logos.net/wp-content/uploads/2017/04/Color-New-York-Times-Logo.jpg'><br>
+<h1 align='center'><img width='900' height='450' src='https://www.berklee.edu/sites/default/files/the-new-york-times%20logo.jpg'><br>
 
 
 **<h1 align = 'center'>react-nytimes-api**
