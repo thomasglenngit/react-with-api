@@ -23,7 +23,7 @@ _[Node.js](https://nodejs.org/en/)_
 <br>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## NYTimesAPI Reference
 
 In the project directory, you can run:
 
